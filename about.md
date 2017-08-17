@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "似水流年 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,58 +10,21 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+我是琉璃康康，沉浮于世，似是而为。
 
-现在研习 **认知写作学** 。
-
-###坚信
+###从事行业：
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 1.从事通信行业五年，专注通信核心网，熟悉GRPS／EPC和整个Wi-Fi方案的信令流程。
+- 2.熟悉Linux的维护工作，现在坚持使用CentOS。
+- 3.热爱编程，有宽度木有深度，从大学学习的C／C#／Java等到之后学习Shell／Python／Ruby／Lua／VBA等等，都是只知皮毛，比较熟悉的是C#做工具和网站。
 
 
-###关注：
+###爱好：
 
-
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
-
-
-
-
-###代表作：
-
-- [《24款最值得推荐的中文字体》](http://cnfeat.com/blog/2015/05/22/a-24-chinese-fonts/)
-
-- [《世界并非如你所见——用可供性来发现更大的世界》](http://cnfeat.com/blog/2015/05/01/affordance/)
-
-- [《如何正确地练习写作》](http://cnfeat.com/blog/2015/03/02/how-to-write/)
-
-
-###我的朋友们
-
-- [YiLee](http://yilee.me)
-- [Caos](http://caos.me)
-- [BuzhiNote](http://BuzhiNote.com)
-- [Azeril](http://azeril.me)
-
-###联系
-
-- [博客：www.cnfeat.com](www.cnfeat.com)
-
-- [微博@CnFeat](http://weibo.com/207775270)
-
-- [知乎@陈素封](http://www.zhihu.com/people/Feat)
-
-- [知乎专栏](http://zhuanlan.zhihu.com/cnfeat)
-
-- 公众号：cnfeat
+- 摄影：拿着700D到处晃悠，PS后期略知。
+- 旅游：一个流浪的心，时刻准备行走在路上，嗯，带着妞儿。
+- 游泳：小时候就知道狗刨，大学开始学习游泳，现在蛙泳／自由泳／蝶泳（额，蝶的囫囵吞枣）。
 
 
 <center>
